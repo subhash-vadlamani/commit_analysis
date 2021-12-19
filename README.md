@@ -1,6 +1,6 @@
 # commit_analysis
 
-Before the execution of the script, please clone the openstack nova project(https://github.com/openstack/nova) to the local folder with the relative path "/tmp/nova".
+Before the execution of the script, please clone the openstack nova project(https://github.com/openstack/nova) to the local folder with the relative path "/tmp/nova". Also, please install the GitPython library using the command "pip install GitPython".
 
 Below are the script execution instructions:
 
