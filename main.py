@@ -1,12 +1,5 @@
 from git import Repo
 from glob import glob
-import subprocess
-import shlex
-import os
-import argparse
-import datetime
-from dateutil import relativedelta
-from git.util import Stats
 
 def main():
 
